@@ -1,4 +1,4 @@
-# Telegram Auto Views 2024
+# // Telegram Auto Views 2024 \\
 # Asynchronous Operation: Optimized for performance and speed.
 # Full Proxy Support: HTTP/S, SOCKS4, SOCKS5 proxies are fully supported.
 # Auto Proxy Scraping: No need to manually collect proxies – the tool scrapes them automatically.
