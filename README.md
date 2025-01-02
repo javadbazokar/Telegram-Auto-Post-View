@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=javadbazokar&theme=dark&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-# Telegram Auto Views 2024 🚀
+[![GitHub Streak](https://streak-stats.demolab.com?user=javadbazokar&theme=dark&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)# Telegram Auto Views 2024 🚀
 
 ### Features ✨
 - **Asynchronous Operation**: Optimized for performance and speed. ⚡️
