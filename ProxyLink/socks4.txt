@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/socks4.txt
 https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks4.txt
 https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/socks4.txt
 https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt
+https://rcloak.com/api/proxies/raw?protocol=socks4

@@ -36,3 +36,4 @@ https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks5.txt
 https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/socks5.txt
 https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt
 https://raw.githubusercontent.com/AGDDoS/AGProxy/master/proxies/socks5.txt
+https://rcloak.com/api/proxies/raw?protocol=socks5
